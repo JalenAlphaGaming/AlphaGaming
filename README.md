@@ -1,0 +1,2 @@
+# AlphaGaming
+Discord Gaming Bot!
